@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">COMP304_Lab05</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    // Attractions
+    <string name="CN_Tower">CN Tower</string>
+    <string name="ROM">Royal Ontario Museum</string>
+    <string name="AGO">Art Gallery of Ontario</string>
+    <string name="Zoo">Toronto Zoo</string>
+    <string name="Casa_Loma">Casa Loma</string>
+
+    //
+</resources>
