@@ -8,6 +8,5 @@
     <string name="AGO">Art Gallery of Ontario</string>
     <string name="Zoo">Toronto Zoo</string>
     <string name="Casa_Loma">Casa Loma</string>
-
-    //
+    <string name="ShowAttraction" />
 </resources>
