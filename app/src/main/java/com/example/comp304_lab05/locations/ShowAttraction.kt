@@ -40,6 +40,7 @@ class ShowAttraction : AppCompatActivity(), OnMapReadyCallback {
      */
     override fun onMapReady(googleMap: GoogleMap) {
         mMap = googleMap
+        mMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
         // Add a marker in Toronto and move the camera
         val location = LatLng(intent.getDoubleExtra("Lat", 0.0), intent.getDoubleExtra("Lng", 0.0))
         val attractionName = intent.getStringExtra("attraction_name")

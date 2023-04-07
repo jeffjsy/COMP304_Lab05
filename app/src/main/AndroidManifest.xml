@@ -31,17 +31,17 @@
             android:exported="false"
             android:label="@string/ShowAttraction">
         </activity>
-        <activity android:name=".locations.ArtGalleryOntario"
+        <activity android:name=".EducationalList"
             android:exported="false"
-            android:label="@string/AGO">
+            android:label="@string/educational">
         </activity>
-        <activity android:name=".locations.RoyalOntarioMuseum"
+        <activity android:name=".HistoricalList"
             android:exported="false"
-            android:label="@string/ROM">
+            android:label="@string/historical">
         </activity>
-        <activity android:name=".locations.CNTower"
+        <activity android:name=".AttractionsList"
             android:exported="false"
-            android:label="@string/CN_Tower">
+            android:label="@string/attractions">
         </activity>
         <activity
             android:name=".MainActivity"
